@@ -30,14 +30,17 @@ I am almost poor Interpreter of { [chinese translate](https://github.com/chinanf
 ## patreon
 
 <a href="https://patreon.com/yobrave">
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="30">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="40%">
 </a>
 
-## 微信
+## 微信/支付宝
+
 
 <img src="./weixin.jpeg" width="30%" alt="weixin">
 
-## 支付宝
+<a href="https://patreon.com/yobrave">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="30%">
+</a>
 
 <img src="./zhifubao.jpeg" width="30%" alt="zhifubao">
 
