@@ -35,7 +35,7 @@ I am almost poor Interpreter of { [chinese translate](https://github.com/chinanf
 
 ## 微信/支付宝
 
-
+<p>
 <img src="./weixin.jpeg" width="30%" alt="weixin">
 
 <a href="https://patreon.com/yobrave">
@@ -43,6 +43,6 @@ I am almost poor Interpreter of { [chinese translate](https://github.com/chinanf
 </a>
 
 <img src="./zhifubao.jpeg" width="30%" alt="zhifubao">
-
+</p>
 
 ## 总得来说, 我现在是全职在搞这些, 为此并没有什么工资来源, 穷到快吃不了饭了,
